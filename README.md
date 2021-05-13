@@ -1,2 +1,6 @@
-# Ironhack Submissions Respository
-Here I will upload all my submissions for the Ironhack Data Analytics course.
+# Respository for Ironhack Submissions
+💾 Prework Submissions 
+
+1. Python
+2. Descriptive Statistics
+3. MS Excel 
