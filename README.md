@@ -5,5 +5,4 @@
 2. Descriptive Statistics
 3. MS Excel 
 
-## Problems
-1.3.2 file not fully uploaded
+
